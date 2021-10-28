@@ -1,14 +1,5 @@
 # rembg_carros
-Extension of Rembg for adding custom model from library
-
-# Rembg
-
-[![Downloads](https://pepy.tech/badge/rembg)](https://pepy.tech/project/rembg)
-[![Downloads](https://pepy.tech/badge/rembg/month)](https://pepy.tech/project/rembg/month)
-[![Downloads](https://pepy.tech/badge/rembg/week)](https://pepy.tech/project/rembg/week)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://img.shields.io/badge/License-MIT-blue.svg)
-
-Rembg is a tool to remove images background. That is it.
+Extension of Rembg tool to remove backgrounds for adding a car custom model from library
 
 <p style="display: flex;align-items: center;justify-content: center;">
   <img src="https://raw.githubusercontent.com/danielgatis/rembg/master/examples/car-1.jpg" width="100" />
@@ -37,8 +28,6 @@ Rembg is a tool to remove images background. That is it.
   <img src="https://raw.githubusercontent.com/danielgatis/rembg/master/examples/girl-3.out.png" width="100" />
 </p>
 
-#### *** If you want to remove background from videos try this this fork: https://github.com/ecsplendid/rembg-greenscreen ***
-
 ### Requirements
 
 * python 3.8 or newer
@@ -48,15 +37,6 @@ Rembg is a tool to remove images background. That is it.
 #### How to install torch/torchvision
 
 Go to https://pytorch.org and scrool down to `INSTALL PYTORCH` section and follow the instructions.
-
-For example:
-```
-PyTorch Build: Stable (1.7.1)
-Your OS: Windows
-Package: Pip
-Language: Python
-CUDA: None
-```
 
 
 ### Installation
