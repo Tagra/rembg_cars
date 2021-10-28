@@ -1,4 +1,4 @@
-# rembg_carros
+# rembg_cars
 Extension of Rembg tool to remove backgrounds for adding a car custom model from library
 
 <p style="display: flex;align-items: center;justify-content: center;">
