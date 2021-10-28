@@ -76,10 +76,11 @@ python app.py
 - https://arxiv.org/pdf/2005.09007.pdf
 - https://github.com/NathanUA/U-2-Net
 - https://github.com/pymatting/pymatting
+- https://github.com/danielgatis/rembg
 
 
 ### License
 
-Copyright (c) 2020-present [Daniel Gatis](https://github.com/danielgatis)
+Copyright (c) 2021 poropeza [Peter Oropeza](https://github.com/poropeza)
 
 Licensed under [MIT License](./LICENSE.txt)
