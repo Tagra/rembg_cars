@@ -10,7 +10,7 @@ with open("requirements.txt") as f:
     requireds = f.read().splitlines()
 
 setup(
-    name="rembg_carros",
+    name="rembg_cars",
     version="1.0.0",
     description="Remove image background from cars",
     long_description=long_description,
