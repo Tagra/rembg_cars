@@ -22,7 +22,7 @@ Go to https://pytorch.org and scrool down to `INSTALL PYTORCH` section and follo
 Install it from pypi
 
 ```bash
-pip install rembg_cars
+pip install rembg-cars
 ```
 
 
